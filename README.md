@@ -1,6 +1,7 @@
 # jobanexcelcourse.github.io
 # Excel course completion certificate
 <span id="hashtag">#myhashtag</span>
+#gndec/
 **About me:**
 My name is Jobanpreet kaur. I live in a small and beautiful village JANDI in district LUDHIANA. I completed my senior secondary education from Guru Hargobind Public sr. sec. School, Sidhwan khurd. My overall percentage in 12th standard is 81%.
 
