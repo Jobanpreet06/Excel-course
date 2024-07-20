@@ -2,6 +2,9 @@
 # Excel course completion certificate
 **About me:**
 My name is Jobanpreet kaur. I live in a small and beautiful village JANDI in district LUDHIANA. I completed my senior secondary education from Guru Hargobind Public sr. sec. School, Sidhwan khurd. My overall percentage in 12th standard is 81%.
+| Roll no | Class | School | Percwntage |
+| :---: | :---: | :---: | :---: |
+| 13684754 | 12th | Guru Hargobind Public sr. sec. School, Sidhwan khurd. | 81 |
 
 **Here is my excel course journey:**
 Few days back, I started learning excel from a wonderful page called _great learning academy_. It provide individuals a free excel course to learn from the very basics. I enjoyed watching the videos and gained a valuable information from the same. Here is my excel course completion certificate.
