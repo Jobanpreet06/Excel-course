@@ -3,6 +3,8 @@
 **About me:**
 My name is Jobanpreet kaur. I live in a small and beautiful village JANDI in district LUDHIANA. 
 
+**Qualification:**
+
 | Roll no | Class | School | Percentage |
 | :---: | :---: | :---: | :---: |
 | 13684754 | 12th | Guru Hargobind Public sr. sec. School, Sidhwan khurd. | 81 |
@@ -10,7 +12,7 @@ My name is Jobanpreet kaur. I live in a small and beautiful village JANDI in dis
 **Here is my excel course journey:**
 Few days back, I started learning excel from a wonderful page called _great learning academy_. It provide individuals a free excel course to learn from the very basics. I enjoyed watching the videos and gained a valuable information from the same. Here is my excel course completion certificate.
 
-
+![excelcourse](https://github.com/user-attachments/assets/431f27db-81fc-4b44-aa88-b4370a5d2bec)
 
 My experience of this online excel course is amazing. I learned a lot of things and gained knowledge about different features of excel as explained below:
 
