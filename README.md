@@ -66,4 +66,3 @@ Steps to convert cell in date and time format.
 **11. SUBSTITUE & REPLACE**
 
 **12. DIFFERENT TYPES OF CHARTS** 
-#gndec
