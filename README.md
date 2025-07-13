@@ -1,4 +1,4 @@
-# jobanexcelcourse.github.io
+# Great learning excel course
 # Excel course completion certificate
 **About me:**
 My name is Jobanpreet kaur. I live in a small and beautiful village JANDI in district LUDHIANA. 
